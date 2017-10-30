@@ -6,5 +6,6 @@
   
 + install using a package manager
   
-## How to install using a package manager
-2. Create a "workshop", designed to walk the rest of your cohort through the steps (this doesn't need to be long - just one markdown file)
++ How to install using a package manager
+
+## Create a "workshop", designed to walk the rest of your cohort through the steps (this doesn't need to be long - just one markdown file)
