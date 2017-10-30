@@ -1,8 +1,7 @@
 # Command-Line-Research
 
 ## Results
-1. Research how to:
-  + customise your command line to make it pretty and useful (ie. git branch/branch status parser)
+### 1. customise your command line to make it pretty and useful (ie. git branch/branch status parser)
   ##### 		For windows 10, it already comes with a command line package 			manager 
   
   
