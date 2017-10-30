@@ -3,11 +3,11 @@
 ## How To
 + How to customise your command line to make it pretty and useful (ie. git branch/branch status parser)
 
-  + For Linux And windows 10 users, mostlikely you would already have a colored and costumized command line
+      + For Linux And windows 10 users, mostlikely you would already have a colored and costumized command line
 
-    Example:
+        Example:
 
-    ![linux](https://github.com/Amirk390/Command-Line-Research/blob/master/linux.jpg)
+        ![linux](https://github.com/Amirk390/Command-Line-Research/blob/master/linux.jpg)
 
   
 + How to install using a package manager
