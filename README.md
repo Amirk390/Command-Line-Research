@@ -27,8 +27,7 @@
      or    
 
         npm i "PACKAGE-NAME"
-  
-+ How to install using a package manager
+
 
 ##
-## Create a "workshop", designed to walk the rest of your cohort through the steps (this doesn't need to be long - just one markdown file)
+## A usuful way to use the command line:
