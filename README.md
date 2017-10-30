@@ -46,4 +46,10 @@ As the name implies, the command line allows you to define aliases, or alternati
     
 To make the command permanant when you’re done, hit CTRL+X to exit. 
 You’ll have to restart the Terminal or create a new window before you’ll be able to use those aliases.
+
+### For windows users
+
+its the same as above but the command is:
+
+    DOSKEY name=’command‘
     
