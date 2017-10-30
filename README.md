@@ -53,3 +53,10 @@ its the same as above but the command is:
 
     DOSKEY name=’command‘
     
+
+
+## 3 Questions
+
++ How do you customize the command line for MAC users?
++ What is the name of the Package Manager?
++ Is windows, MAC and Linux use the Command Line Aliases?
