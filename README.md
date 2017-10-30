@@ -34,9 +34,9 @@
  
  ### Command Line Aliases
 
-Some people keep a list handy of their most visited commands, but that’s still far off from a lasting solution. Instead, we turn to an inherent feature of command line shells – aliases. Command line aliases are an essential part of working with the command line interface, and once you start using them, you’ll wonder how you ever coped without it.
+    Some people keep a list handy of their most visited commands, but that’s still far off from a lasting solution. Instead,      we turn to an inherent feature of command line shells – aliases. Command line aliases are an essential part of working       with the command line interface, and once you start using them, you’ll wonder how you ever coped without it.
 
-As the name implies, the command line allows you to define aliases, or alternative syntax in the scope of your operating system’s command line shell. Once defined, any occurrence of the alias will be swapped out for the appropriate commands. This allows you to bind a command line call, perhaps with some of the flags already set, to an easily remembered alias. Henceforth, instead of jumbling flags or trying to remember a discombobulated series of commands, you’ll simply use the appropriate alias.
+     As the name implies, the command line allows you to define aliases, or alternative syntax in the scope of your operating     system’s command line shell. Once defined, any occurrence of the alias will be swapped out for the appropriate commands.     This allows you to bind a command line call, perhaps with some of the flags already set, to an easily remembered alias.      Henceforth, instead of jumbling flags or trying to remember a discombobulated series of commands, you’ll simply use the      appropriate alias.
 
 ### For Linux And MAC
 
