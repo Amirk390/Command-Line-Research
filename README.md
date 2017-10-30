@@ -2,7 +2,7 @@
 
 ## How To
 + How to customise your command line to make it pretty and useful (ie. git branch/branch status parser)
-  + For windows 10, it already comes with a command line package manager 
+  + For windows 10, it already comes with a command line package manager installed,
   
 + install using a package manager
   
