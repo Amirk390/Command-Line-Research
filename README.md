@@ -1,4 +1,4 @@
-###### Command-Line-Research By Amir, Marlen and Sophia
+###### Command Line Research By Amir, Marlen and Sophia
 # Command-Line-Research
 
 ## How To
