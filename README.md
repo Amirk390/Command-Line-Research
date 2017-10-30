@@ -44,7 +44,7 @@ As the name implies, the command line allows you to define aliases, or alternati
  
     alias name=’command‘
     
-To make the command permanant when you’re done, hit CTRL+X to exit. 
+To make the command permanant when you’re done, **hit CTRL+X to exit.** 
 You’ll have to restart the Terminal or create a new window before you’ll be able to use those aliases.
 
 ### For windows users
