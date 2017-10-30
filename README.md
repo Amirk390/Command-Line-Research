@@ -9,7 +9,7 @@
 
        ![linux](https://github.com/Amirk390/Command-Line-Research/blob/master/linux.jpg)
       
-       For a MAC (OSX) users, you can download one of many available addones or just use different commands to customize it
+      + For a MAC (OSX) users, you can download one of many available addones or just use different commands to customize it
        
        **For one example:**
      
