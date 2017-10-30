@@ -7,7 +7,11 @@
 + install using a package manager
 
   + You can use the NPM (Node Pacage Manager) in the command line to download different packages from the web
-    The way to do thast is by going to the command line and type the next command: npm install "the name of the package" or npm i "thwe name of the
+    The way to do thast is by going to the command line and type the next command: 
+   
+   > npm install "the name of the package"
+    or 
+    > npm i "thwe name of the
   
 + How to install using a package manager
 
