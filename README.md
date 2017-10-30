@@ -5,11 +5,13 @@
 
      + For Linux And windows 10 users, mostlikely you would already have a colored and costumized command line
 
-       Example:
+       **Example:**
 
        ![linux](https://github.com/Amirk390/Command-Line-Research/blob/master/linux.jpg)
       
-       For a MAC (OSX) users, you can use somthing that been made by a github user
+       For a MAC (OSX) users, you can download one of many available addones or just use different commands to customize it
+       
+       **For one example:**
      
      [How to Customize your Terminal Prompt for OSX users)](http://osxdaily.com/2006/12/11/how-to-customize-your-terminal-prompt/)
   
