@@ -31,7 +31,8 @@
 
 ##
 ## TIP for a useuful way to use the command line
- + Command Line Aliases
+ 
+ ### Command Line Aliases
 
 Some people keep a list handy of their most visited commands, but that’s still far off from a lasting solution. Instead, we turn to an inherent feature of command line shells – aliases. Command line aliases are an essential part of working with the command line interface, and once you start using them, you’ll wonder how you ever coped without it.
 
