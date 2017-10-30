@@ -9,9 +9,12 @@
 
        ![linux](https://github.com/Amirk390/Command-Line-Research/blob/master/linux.jpg)
       
-      + For a MAC (OSX) users, you can download one of many available addones or just use different commands to customize it
+     + For a MAC (OSX) users, you can download one of many available addones or just use different commands to customize it
        
        **For one example:**
+     
+     
+     ![OSX](http://cdn.osxdaily.com/wp-content/uploads/2006/12/custom-terminal-prompt-mac-610x229.jpg)
      
      [How to Customize your Terminal Prompt for OSX users)](http://osxdaily.com/2006/12/11/how-to-customize-your-terminal-prompt/)
   
