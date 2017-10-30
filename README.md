@@ -18,8 +18,10 @@
      5. Install the lolcat [2] via : gem gem install lolcat
      6. Profit!
      
-     * [3] - http://brew.sh
-     * via - https://gist.github.com/cvrabie
+     - [3] - http://brew.sh
+     - via - https://gist.github.com/cvrabie
+     
+     [Linux fun-o-matic (Customization for MAC users)](https://gist.github.com/dakull/6615458)
   
 + How to install using a package manager
 
