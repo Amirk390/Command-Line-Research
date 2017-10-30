@@ -8,7 +8,18 @@
        Example:
 
        ![linux](https://github.com/Amirk390/Command-Line-Research/blob/master/linux.jpg)
-
+      
+      For a MAC (OSX) users, you can use somthing that been made by a github user:
+      
+     1. Make sure you have HomeBrew [3] installed via: brew -v
+     2. Install cowsay [0] via : brew install cowsay
+     3. Install fortune [1] via : brew install fortune
+     4. Make sure you have Ruby installed via : ruby -v
+     5. Install the lolcat [2] via : gem gem install lolcat
+     6. Profit!
+     
+     * [3] - http://brew.sh
+     * via - https://gist.github.com/cvrabie
   
 + How to install using a package manager
 
