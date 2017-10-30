@@ -15,11 +15,11 @@
   + One of the way to use Package manager is NPM (Node Pacage Manager) in the command line to download different packages from the web
     The way to do thast is by going to the command line and type the next command: 
     
-        ##### npm install "PACKAGE-NAME"
+        npm install "PACKAGE-NAME"
 
      or    
 
-        ##### npm i "PACKAGE-NAME"
+        npm i "PACKAGE-NAME"
   
 + How to install using a package manager
 
