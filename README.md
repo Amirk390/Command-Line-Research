@@ -3,11 +3,11 @@
 ## How To
 + How to customise your command line to make it pretty and useful (ie. git branch/branch status parser)
 
-      + For Linux And windows 10 users, mostlikely you would already have a colored and costumized command line
+     + For Linux And windows 10 users, mostlikely you would already have a colored and costumized command line
 
-        Example:
+       Example:
 
-        ![linux](https://github.com/Amirk390/Command-Line-Research/blob/master/linux.jpg)
+       ![linux](https://github.com/Amirk390/Command-Line-Research/blob/master/linux.jpg)
 
   
 + How to install using a package manager
@@ -15,11 +15,11 @@
   + One of the way to use Package manager is NPM (Node Pacage Manager) in the command line to download different packages from the web
     The way to do thast is by going to the command line and type the next command: 
     
-    ##### <code> npm install "PACKAGE-NAME"</code>
+        ##### npm install "PACKAGE-NAME"
 
      or    
 
-    ##### <code> npm i "PACKAGE-NAME"</code>
+        ##### npm i "PACKAGE-NAME"
   
 + How to install using a package manager
 
