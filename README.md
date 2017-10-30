@@ -2,8 +2,11 @@
 
 ## How To
 + How to customise your command line to make it pretty and useful (ie. git branch/branch status parser)
+Example:
 
-  
+![linux](https://github.com/Amirk390/Command-Line-Research/blob/master/linux.jpg)
+
+  
 + How to install using a package manager
 
   + One of the way to use Package manager is NPM (Node Pacage Manager) in the command line to download different packages from the web
