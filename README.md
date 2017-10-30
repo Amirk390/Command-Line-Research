@@ -1,6 +1,5 @@
+###### Command-Line-Research By Amir, Marlen and Sophia
 # Command-Line-Research
-##### Command-Line-Research By Amir, Marlen and Sophia
-
 
 ## How To
 + How to customise your command line to make it pretty and useful (ie. git branch/branch status parser)
