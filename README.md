@@ -11,7 +11,7 @@
     
     ##### <code> npm install "PACKAGE-NAME"</code>
 
-    or    
+     or    
 
     ##### <code> npm i "PACKAGE-NAME"</code>
   
